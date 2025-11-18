@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="220" />
+</p>
+
+<h1 align="center">Welcome to my GeeksforGeeks Solutions Repository! 💡</h1>
+
+
 # 🚀 GFG POTD Mastery
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
@@ -5,7 +12,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![GFG Streak](https://img.shields.io/badge/GFG_Streak-🔥_Active-orange)
 
-> **GeeksforGeeks POTD Mastery** — Daily DSA problem-solving repository with clean solutions, explanations, and a growth log.
+— Daily DSA problem-solving repository with clean solutions, explanations, and a growth log.
 
 ---
 
