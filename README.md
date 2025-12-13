@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" style="margin-right:5 px;" />
-  
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="160" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="150" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20POTD%20ani.gif?raw=true" width="190" 
 </p>
 
 <h1 align="center">Welcome to my GeeksforGeeks Solutions Repository! 💡</h1>
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Repository Overview
+##  Repository Overview
 
 This repository is dedicated to mastering GeeksforGeeks' **Problem of the Day (POTD)** challenges. It includes:
 - ✅ Daily solutions in Java and Python
@@ -28,7 +28,7 @@ This repository is dedicated to mastering GeeksforGeeks' **Problem of the Day (P
 
 ---
 
-## 🧰 Installation & Usage
+##  Installation & Usage
 
 ### 🔧 Clone the Repository
 
