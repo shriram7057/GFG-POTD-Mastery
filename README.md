@@ -7,7 +7,7 @@
 <h1 align="center">Welcome to my GeeksforGeeks Solutions Repository! 💡</h1>
 
 
-# 🚀 GFG POTD Mastery
+# 🚀 GFG POTD Master
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Languages](https://img.shields.io/badge/languages-Java%20%7C%20Python-blue)
