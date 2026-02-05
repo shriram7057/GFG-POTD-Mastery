@@ -36,14 +36,85 @@
 git clone https://github.com/shriram7057/gfg-potd-mastery.git
 cd gfg-potd-mastery
 ```
-## 🤝 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁!
-<div align="center">
+<!-- CONNECT -->
+<h3>🤝 Connect with Me</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyy_shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lahaneshr7f7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Profile</th>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://github.com/shriram7057" target="_blank">
+        https://github.com/shriram7057
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/Shriram%20Lahane" target="_blank">
+        https://linkedin.com/in/Shriram Lahane
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+      <br/>Kaggle
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/shriramlahane" target="_blank">
+        https://kaggle.com/shriramlahane
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+      <br/>Instagram
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/pvt.shree_01" target="_blank">
+        https://instagram.com/pvt.shree_01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+      <br/>LeetCode
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/shriram-01" target="_blank">
+        https://leetcode.com/shriram-01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="70"/>
+      <br/>GeeksforGeeks
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/shriram01" target="_blank">
+        https://auth.geeksforgeeks.org/user/shriram01
+      </a>
+    </td>
+  </tr>
+</table>
+
