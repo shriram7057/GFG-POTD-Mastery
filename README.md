@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" style="margin-right:5 px;" />
   <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="150" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20POTD%20ani.gif?raw=true" width="190" 
 </p>
 
 <h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗲𝗲𝗸𝘀𝗳𝗼𝗿𝗚𝗲𝗲𝗸𝘀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆! 💡</h1>
