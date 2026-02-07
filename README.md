@@ -122,7 +122,7 @@ cd gfg-potd-mastery
     </td>
     <td align="center">
       <a href="https://discord.com/shriram_79991" target="_blank">
-        https://github.com/shriram7057
+        https://discord.com/shriram_79991
       </a>
     </td>
   </tr>
