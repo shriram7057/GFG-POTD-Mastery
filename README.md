@@ -115,5 +115,17 @@ cd gfg-potd-mastery
       </a>
     </td>
   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="35"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://discord.com/shriram_79991" target="_blank">
+        https://github.com/shriram7057
+      </a>
+    </td>
+  </tr>
+
 </table>
 
